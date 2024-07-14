@@ -23,7 +23,7 @@ REGISTRO DE USUARIO CORRECTAMENTE SUBIADA A LA BASE DE DATOS de MySQL
 RESULTADOS DE LA BASE DE DATOS
 
 
-[![imagen.jpg](https://i.postimg.cc/bYm905Yc/imagen.jpg)](https://postimg.cc/8srvNtrt)
+[![imagen.jpg](https://i.postimg.cc/9MtBgvT9/imagen.jpg)](https://postimg.cc/Fdzc7CTF)
 
 
 ELIMINAR DATOS
@@ -35,5 +35,5 @@ ELIMINAR DATOS
 BASE DE DATOS DE MySQL 
 
 
-[![BBDD-proyectojava-24112.jpg](https://i.postimg.cc/6pyY6bJs/BBDD-proyectojava-24112.jpg)](https://postimg.cc/LJFzNT8v)
+[![BBDD-proyectojava-24112.jpg](https://i.postimg.cc/V61qtDTk/BBDD-proyectojava-24112.jpg)](https://postimg.cc/CZPnTHS3)
 
